@@ -6,11 +6,11 @@ Hi im Andrew, I build things that I find interesting or believe in :)
 
 ## What I build
 
-    idea → system design → useful interface → thoughtful iteration
+    idea → system design → interface → iteration
 
 - Full-stack applications
 - Data-driven and AI-assisted tools that make complex information easier to use
-- Reliable backend workflows, APIs, and databases—without losing sight of the person on the other side of the screen
+- Reliable backend workflows, APIs, and databases without losing sight of the person on the other side of the screen
 
 ## Languages
 
