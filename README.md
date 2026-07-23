@@ -14,7 +14,7 @@ Hi im Andrew, I build things that I find interesting or believe in :)
 
 ## Languages
 
-Python · JavaScript · TypeScript · C++
+Python · JavaScript · TypeScript · C/C++ · HTML5/CSS
 
 ## Engineering
 
