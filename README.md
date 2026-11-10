@@ -1,16 +1,17 @@
 # Andrew Liu
 
-> **I build software?.**
+> **I build?**
 
-Hi im Andrew, I build things that I find interesting or believe in :)
+Hi im Andrew, I build things that I find interesting :)
 
 ## What I build
 
     idea → system design → interface → iteration
 
 - Full-stack applications
-- Data-driven and AI-assisted tools that make complex information easier to use
-- Reliable backend workflows, APIs, and databases without forgetting the person on the other side of the screen
+- Data-driven and AI-assisted tools
+- AI Automation / Agentic Engineering
+
 
 ## Languages
 
